@@ -62,13 +62,13 @@ class Song {
   String parseArtists() {
     String artists = "";
     if (artistNames.length == 1) {
-      for (name in artistNames) {
-        return name.trim();
+      for (String s in artistNames) {
+        return s.trim();
       }
     }
 
-    for (name in artistNames) {
-      artists += name.trim();
+    for (String s in artistNames) {
+      artists += s.trim();
       artists += "; ";
     }
     return artists.trim();
