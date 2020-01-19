@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "737851616895",
+    "firebase_url": "https://musicmap-1579230692237.firebaseio.com",
+    "project_id": "musicmap-1579230692237",
+    "storage_bucket": "musicmap-1579230692237.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737851616895:android:53d03d3faa4d02d6f7194a",
+        "android_client_info": {
+          "package_name": "com.example.music_map"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737851616895-p6v3cbksnvj2779i61fkfbrg2b7fl9bk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD58h3JTaYNFFsAzP9EuFjKcDukyTZDxu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737851616895-p6v3cbksnvj2779i61fkfbrg2b7fl9bk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
