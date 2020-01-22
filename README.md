@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/Q-gabe/DropTheBeat"><img src="https://raw.githubusercontent.com/Q-gabe/DropTheBeat/master/preview/banner.png" alt="Drop The Beat" width="100%"></a>
+  <a href="https://github.com/Q-gabe/DropTheBeat"><img src="https://raw.githubusercontent.com/Q-gabe/DropTheBeat/master/preview/Banner.png" alt="Drop The Beat" width="100%"></a>
   <br>
   Drop The Beat
 </h1>
@@ -25,7 +25,7 @@ So have we! For [**Hack'n'Roll 2020**](https://hacknroll.nushackers.org/), our t
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Q-gabe/DropTheBeat/master/preview/2Overview_with_Tag.png" width="256" hspace="4">
-  <img src="https://raw.githubusercontent.com/Q-gabe/DropTheBeat/master/preview/5Song_Search.png.png" width="256" hspace="4">
+  <img src="https://raw.githubusercontent.com/Q-gabe/DropTheBeat/master/preview/5Song_Search.png" width="256" hspace="4">
   <img src="https://raw.githubusercontent.com/Q-gabe/DropTheBeat/master/preview/6Song_Entry.png" width="256" hspace="4">
 </p>
 
